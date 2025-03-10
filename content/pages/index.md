@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: RAGB HOMESTAY
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
