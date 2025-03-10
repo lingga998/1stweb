@@ -8,10 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "Homestay kami di Gorontalo dilengkapi dengan\_**fasilitas lengkap**\_untuk memastikan kenyamanan Anda selama menginap. Setiap unit memiliki\_**kamar tidur yang nyaman**. Ruang tamu yang luas menyediakan area untuk bersantai dan berkumpul, sementara\_**kamar mandi**\_dilengkapi dengan perlengkapan mandi yang bersih dan nyaman. Kami juga menyediakan akses Wi-Fi gratis untuk kebutuhan internet Anda. Dengan semua fasilitas ini, homestay kami menjadi pilihan ideal untuk segala jenis perjalanan.\n"
     actions:
       - label: Get started
         altText: ''
