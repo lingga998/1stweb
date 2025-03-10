@@ -12,7 +12,7 @@ sections:
     actions:
       - label: Contact Us
         altText: ''
-        url: /
+        url: 'https://wa.link/znrnw3'
         showIcon: false
         icon: arrowRight
         iconPosition: right
