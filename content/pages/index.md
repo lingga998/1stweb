@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: "Homestay kami di Gorontalo dilengkapi dengan\_**fasilitas lengkap**\_untuk memastikan kenyamanan Anda selama menginap. Setiap unit memiliki\_**kamar tidur yang nyaman**. Ruang tamu yang luas menyediakan area untuk bersantai dan berkumpul, sementara\_**kamar mandi**\_dilengkapi dengan perlengkapan mandi yang bersih dan nyaman. Kami juga menyediakan akses Wi-Fi gratis untuk kebutuhan internet Anda. Dengan semua fasilitas ini, homestay kami menjadi pilihan ideal untuk segala jenis perjalanan.\n"
+    text: "Our homestay in Gorontalo is equipped with\_**complete facilities**\_to ensure your comfort during your stay. Each unit features a\_**comfortable bedroom**. The spacious living room provides an area for relaxing and gathering, while the\_**bathroom**\_is equipped with clean and comfortable toiletries. We also offer free Wi-Fi access for your internet needs. With all these facilities, our homestay is an ideal choice for any type of trip.\n\n"
     actions:
       - label: Contact Us
         altText: ''
