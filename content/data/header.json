@@ -70,17 +70,6 @@
             "iconPosition": "right",
             "style": "primary",
             "type": "Button"
-        },
-        {
-            "type": "Button",
-            "label": "Get started",
-            "altText": "",
-            "url": "https://wa.me/0895392937567",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": ""
         }
     ],
     "variant": "logo-left-primary-nav-centered",
